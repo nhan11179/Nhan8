@@ -1,0 +1,1 @@
+curl -s -o ~/x https://raw.githubusercontent.com/boxvidra/Boxvidra-Project/boxvidra/Boxvidra-Project-Scripts/Native-Scripts/install-native && . ~/x
